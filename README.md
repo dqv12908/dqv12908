@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dqv12908
-- 👀 I’m interested in proggraming
-- 🌱 I’m currently learning python,html,css,javascript all by myself
-- 📫 How to reach me dqv12908@gmail.com
+- 👀 I’m interested in blockchain, cyber security, maths, physics
+- 📫 How to reach me telegram @Calvith
 
 <!---
 please feel free to contact me

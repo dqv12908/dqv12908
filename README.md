@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @dqv12908
-- 👀 I’m interested in blockchain, cyber security, maths, physics
+automations, trading algo, reverse engineering things, bug bounty.
 
-<!---
-please feel free to contact me
---->
+whoever you are, ily.
